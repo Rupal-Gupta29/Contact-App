@@ -1,0 +1,35 @@
+.cardContainer{
+    background-color: #1D1D1D;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.icons{
+    font-size: 25px;
+}
+
+.avatarIcon{
+    color: white;
+    font-size: 35px;
+}
+
+.deleteIcon{
+    color: #E21818;
+}
+
+.editIcon{
+    color: #03DAC6;
+}
+
+.detailsContainer{
+    flex-grow: 1;
+}
+
+.detailsContainer div{
+    font-weight: bold;
+}

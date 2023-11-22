@@ -1,0 +1,38 @@
+.searchContainer{
+    display: flex;
+    padding: 15px 0px;
+    align-items: center;
+}
+
+.inpContainer{
+    border: 1px solid rgb(166, 165, 165);
+    display: flex;
+    flex-grow: 1;
+    border-radius: 5px;
+    padding: 5px
+}
+
+.inp{
+    box-sizing: border-box;
+    border: none;
+    width: 100%;
+    background: transparent;
+    outline: none;
+    color: white;
+    padding-left: 5px;
+}
+
+.inp::placeholder{
+    color: white;
+}
+
+.plusIcon{
+    font-size: 35px;
+    padding-left: 5px;
+    color: #03DAC6;
+}
+
+.searchIcon{
+    font-size: 25px;
+    color: #03DAC6;
+}

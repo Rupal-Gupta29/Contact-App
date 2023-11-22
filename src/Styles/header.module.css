@@ -1,0 +1,15 @@
+.headerContainer{
+    background-color: #E1E1E1;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-size: large;
+    font-weight: bold;
+    margin-left: 10px;
+}

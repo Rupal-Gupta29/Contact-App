@@ -1,0 +1,38 @@
+.modalWrapper{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: red;
+    background-color: white;
+    padding: 20px 40px;
+}
+
+.overlay{
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    background-color: rgb(1, 1, 1, 0.7);
+}
+
+.modalBtn{
+    padding: 5px 10px;
+    background-color: #FF9209;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.formInp{
+    border-radius: 5px;
+    box-sizing: border-box;
+    width:250px;
+    padding: 5px;
+}
+
+.closeIcon{
+    font-size: 25px;
+    text-align: end;
+}
