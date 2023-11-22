@@ -14,8 +14,7 @@ This is a React and Vite-powered web app, seamlessly connected to Firestore. Man
 
 ![ss1](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/1f088d61-c0dc-462f-bba5-21e5c2b94e8a) ![ss2](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/6a497101-7575-4883-8925-ceafd45eb6aa)
 
-![ss3](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/68c66a48-6779-4544-9fb3-8799a4bab586)  
-![ss4](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/b1d9a8c0-7567-4ef5-9d6e-e0c191280aee)
+![ss3 (3)](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/a0e11602-09e3-4556-9fc8-67097c651010)  ![ss (1)](https://github.com/Rupal-Gupta29/Contact-App/assets/70842313/07a071c7-2181-4488-afa1-37015cb865d4)  
 
 # React + Vite
 
